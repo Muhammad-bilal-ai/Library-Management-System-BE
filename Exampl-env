@@ -1,0 +1,11 @@
+DB_NAME=vuswhlms
+DB_HOST=localhost
+DB_PORT=3306
+DB_USERNAME=root
+DB_PASSWORD=""
+BASE_URL_FE=http://localhost:3000
+EMAIL_FROM=bilalforgpt@gmail.com
+NODEMAILER_HOST=sandbox.smtp.mailtrap.io
+NODEMAILER_PORT=2525
+NODEMAILER_AUTH_USER=97e8277be0b52c
+NODEMAILER_AUTH_PASS=baf364e63b7eb9
